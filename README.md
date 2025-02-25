@@ -19,7 +19,7 @@ A Web-3 sports betting platform designed to ensure the trust of the customers. *
 - 📑 In the process of building the Web-3 payment platform with smart contracts
 
 Deployed at  **[CacheCasino](https://cachecasino.vercel.app/)** and is the first repositories below ⬇️ (**CacheCasino**).
-![Cache Casino Logo](https://github.com/markamiri/markamiri/blob/main/cacheSS.PNG)
+![Screenshot](https://github.com/markamiri/markamiri/blob/main/Screenshot.png)
 
 <!--
 **markamiri/markamiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
