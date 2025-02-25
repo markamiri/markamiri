@@ -15,10 +15,10 @@
 A Web-3 sports betting platform designed to ensure the trust of the customers. **Cache Casino** provides features such as:
 
 - 🏡 Over **130** markets for each NBA game player props and match lines
-- 📅 Pregame and live betting markets
+- 📅 Transactions and bet slips all transparent to ensure the trust of the customer
 - 📑 In the process of building the Web-3 payment platform with smart contracts
 
-The repositories is the first 1 below ⬇️ (**CacheCasino**).
+Deployed at  **[CacheCasino](https://cachecasino.vercel.app/)** and is the first repositories below ⬇️ (**CacheCasino**).
 
 <!--
 **markamiri/markamiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
